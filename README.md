@@ -1,7 +1,7 @@
 
 ## Stock Data Outlier Analyzer
 
-This Python script analyzes stock data in CSV format to identify outliers in price data. It utilizes statistical methods and generates reports for further investigation.
+This Python script analyzes stock data in CSV format to identify outliers in price data. It utilizes methods from the statitiscs module in Python to generate  reports for further investigation.
 
 **Features:**
 
