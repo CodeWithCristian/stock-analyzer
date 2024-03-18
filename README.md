@@ -13,7 +13,7 @@ This Python script analyzes stock data in CSV format to identify outliers in pri
 
 **Usage:**
 
-1. Save the script as a Python file (e.g., `stock_analyzer.py`).
+1. Save the Python file `stock_analyzer.py` to a folder on your system.
 2. Open a terminal or command prompt and navigate to the directory containing the script and your CSV files.
 3. Run the script with the following command, replacing `<folder_path>` with the actual path to your folder:
 
