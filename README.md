@@ -34,8 +34,3 @@ This command analyzes data in the `data/NYSE` folder, processing a random sample
 **Dependencies:**
 
 - Python 3 (with standard libraries: `csv`, `random`, `statistics`, `os`, `argparse`)
-
-**Note:**
-
-- The script assumes CSV files with three columns: stock ID, timestamp, and price.
-- The outlier threshold can be adjusted within the script by modifying the value used for standard deviations in the `detect_outliers` function.
